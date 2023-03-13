@@ -1,6 +1,12 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# L'Atelier des Peluches
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+L'Atelier des Peluches confectionne des peluches (vous l'aviez deviné ? 😜) au crochet.
+Les peluches sont confectionnées en France avec passion.
+
+## Exemples de réalisations
+
+- Crocnosaure
+![](https://i.etsystatic.com/38684753/r/il/cee38e/4365478411/il_794xN.4365478411_9ets.jpg)
